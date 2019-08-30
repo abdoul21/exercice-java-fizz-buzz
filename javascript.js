@@ -16,7 +16,7 @@ if (sport === "oui" ){
         }else if(sport ==="non"){
             sport = alert("tu aura un oiseaux");
         }
-    }else if(sport === "chat"){
+    }else if(sport === "un chat"){
         sport = prompt("est tu alergique aux poil de chat");
         if(sport==="oui"){
             sport = alert("tu n'aura pas de chat");
